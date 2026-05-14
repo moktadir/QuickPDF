@@ -1,0 +1,7 @@
+*.pdf
+/build
+*.spec
+*.ppt
+*.doc
+*.docx
+*.pptx
